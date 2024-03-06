@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atomicals/atomicals-js.git"
+    "url": "https://github.com/wel3325/atomicals-js-master"
   },
   "author": "atomicals.xyz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atomicals/atomicals-js/issues"
+    "url": "https://github.com/wel3325/atomicals-js-master"
   },
   "keywords": [
     "bitcoin"
   ],
-  "homepage": "https://github.com/atomicals/atomicals-js#readme",
+  "homepage": "https://github.com/wel3325/atomicals-js-master#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.5",
