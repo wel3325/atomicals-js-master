@@ -1,0 +1,13 @@
+{
+  "phrase": "loop beach forward version random brave salt asthma marriage strike cup leader",
+  "primary": {
+    "address": "bc1p4lqxq6qdc42xqs6fr82gwtuaxw8mcul3ndwaymm73et2w0rq4sssj50dtc",
+    "path": "m/86'/0'/0'/0/0",
+    "WIF": "KyWDuXBQtYo8e1ft8Dq1kENW88WYTK4i3oQvuSC4dzm5D3Ng8RoB"
+  },
+  "funding": {
+    "address": "bc1pzjvwucxqn2uj5s94z92acapd3eezk3pzsxu2mvnrhtqz6fe7cpksjtmxzu",
+    "path": "m/86'/0'/0'/1/0",
+    "WIF": "L4Y2gRLBFsmFXsjjzMCW7y3AmTmhcsEcXeLEqYExBH1GtZPygibd"
+  }
+}
