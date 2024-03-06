@@ -1,5 +1,5 @@
 {
-  "name": "atomicals-js",
+  "name": "atomicals-js-master",
   "version": "0.1.48",
   "description": "Atomicals Javascript Library and CLI - atomicals.xyz",
   "main": "dist/index.js",
